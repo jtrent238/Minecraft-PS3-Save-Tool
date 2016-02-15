@@ -1,0 +1,12 @@
+c:\users\josh\documents\visual studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\bin\Debug\Minecraft PS3 Save Tool.exe
+c:\users\josh\documents\visual studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\bin\Debug\Minecraft PS3 Save Tool.pdb
+c:\users\josh\documents\visual studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft_PS3_Save_Tool.Form1.resources
+c:\users\josh\documents\visual studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft_PS3_Save_Tool.Properties.Resources.resources
+c:\users\josh\documents\visual studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft PS3 Save Tool.csproj.GenerateResource.Cache
+c:\users\josh\documents\visual studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft PS3 Save Tool.exe
+c:\users\josh\documents\visual studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft PS3 Save Tool.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft_PS3_Save_Tool.AboutForm.resources
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft_PS3_Save_Tool.EditForm.resources
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft_PS3_Save_Tool.EnchantForm.resources
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft_PS3_Save_Tool.ItemDataForm.resources
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Minecraft PS3 Save Tool\Minecraft PS3 Save Tool\obj\x86\Debug\Minecraft PS3 Save Tool.csprojResolveAssemblyReference.cache
